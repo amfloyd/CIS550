@@ -1,0 +1,33 @@
+#main-content{
+  padding-top: 50px; 
+  margin: 0;
+  width: 100%;
+  border: none;
+}
+
+#olympics-logo-large{
+  background: url('../assets/images/olympics-logo.svg') no-repeat;
+  background-size: contain;
+  margin: 0;
+  padding-top: 120px;
+  width: 200px;
+}
+
+#title-content{
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+  width:auto;
+}
+
+.carousel{
+  max-height: 480px;
+  overflow: hidden;
+}
+
+.item img{
+  width: 80%;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
